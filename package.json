@@ -1,0 +1,26 @@
+{
+  "name": "nodejssearchengine",
+  "version": "1.0.0",
+  "description": "Nodejs Search Engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "~4.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivamKumar2k16/NodejsSearchEngine.git"
+  },
+  "keywords": [
+    "searchEngine"
+  ],
+  "author": "Shivam Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShivamKumar2k16/NodejsSearchEngine/issues"
+  },
+  "homepage": "https://github.com/ShivamKumar2k16/NodejsSearchEngine#readme"
+}
